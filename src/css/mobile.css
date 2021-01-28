@@ -1,0 +1,279 @@
+@media screen and (min-width: 300px) and (max-width: 499px){
+    #app{
+        overflow-x: hidden;
+    }
+    #head{
+        display: flex;
+        flex-direction: column !important;
+    }
+    .headers{
+        font-size: 20px !important;
+        line-height: 28px !important;
+    }
+    .toTop{
+        display: none;
+    }
+    button{
+        max-width: 95%;
+    }
+    #head>*{
+        margin: 0 !important;
+        align-self: center;
+        margin-top: 20px !important;
+    }
+    .doOrder{
+        width: 89% !important;
+        bottom: auto !important;
+        right: 10% !important;
+        top: 19% !important;
+        padding: 2% !important;
+    }
+    .doOrder #button{
+        font-size: 20px !important;
+    }
+    #closeModal{
+        font-size: 40px !important;
+        margin-bottom: -14% !important;
+    }
+    .doOrder .group{
+        margin: 20px 0 !important;
+    }
+    .container{
+        padding: 0 5% !important;
+    }
+    p{
+        max-width: 90vw !important;
+        width: auto !important;
+    }
+    #panoramtexts{
+        width: auto !important;
+    }
+    #panoram img{
+        height: 300px;
+    }
+    .download{
+        margin: 0 !important;
+        padding-left: 5% !important;
+        padding-right: 5% !important;
+    }
+    #abaut{
+        width: auto !important;
+        margin-left: 5% !important;
+    }
+    .download button{
+        max-width: 100%;
+    }.planitem:first-child span{
+        margin-right: 20px !important;
+    }
+    .planitem:first-child span{
+        margin-bottom: 0 !important;
+    }
+    .planitems{
+        height: 400px;
+    }
+    .planitem img{
+        height: 300px;
+    }
+    .interiorblock div{
+        margin-left: 5%;
+    }
+    #why h1{
+        margin-left: 5% !important;
+        width: 100% !important;
+    }
+    li span{
+        width: auto !important;
+    }
+    .why{
+        padding-left: 0 !important;
+    }
+    .why ul {
+        padding: 0 5% !important;
+    }
+    .img img{
+        width: 100vw;
+    }
+    .img{
+        padding-bottom: 0;
+    }
+
+    .ecoblock img{
+        display: none;
+    }
+    .ecoblock>h1, .ecoblock>p{
+        margin: 0 5% !important;
+    }
+    .eco ul{
+        flex-direction: column;
+        margin-top: 20px !important;
+    }
+    #material{
+        max-width: 70% !important;
+        margin-left: 5%;
+    }
+    #whatgetheader h1{
+        margin-left: 5% !important;
+    }
+    .outSide{
+        height: 800px !important;
+    }
+    #itemblock{
+        flex-direction: column;
+        flex-wrap: nowrap !important;
+        height: 1700px !important;
+    }
+    .getitemblock{
+        width: 80% !important;
+        align-self: center;
+        height: 350px !important;
+        position: relative;
+        margin: 0 0 50px 0!important;
+    }
+    .stepsheader h1{
+        margin-left: 5% !important;
+    }
+    .stepslist{
+        flex-direction: column;
+    }
+    .stepslist img{
+        top: 16px !important;
+    }
+    .stepslist p{
+        margin-left: 20px;
+    }
+    .player{
+        display: block !important;
+        height: auto;
+    }
+    .player iframe{
+        height: 300px !important;
+    }
+    #stepshr{
+        margin: 0 5% !important;
+    }
+    .priceheder > h1{
+        margin-left: 5% !important;
+    }
+    .priceblock{
+        flex-direction: column;
+    }
+    .complectation{
+        width: 100% !important;
+    }
+    .complect{
+        width: 100% !important;
+    }
+    .priceblock > .complect + .time{
+        margin: 0 !important;
+    }
+    .pricelist>div:nth-child(2){
+        margin-left: -5% !important;
+    }
+    .galeryheader{
+        margin-left: 5% !important;
+    }
+    .galery{
+        margin-top: 30px;
+    }
+    .galeryitem:last-child{
+        margin: -30px 0 0 20px !important;
+    }
+    .galeryitem > .galaryimg:first-child{
+        margin-bottom: 30px !important;
+    }
+    .contactheader h1{
+        margin-left: 5% !important;
+    }
+    .contactUs form{
+        flex-direction: column;
+    }
+    .contactUs{
+        height: 450px;
+    }
+    .btn{
+        margin-top: 20px;
+    }
+    .contactUs form .group{
+        margin-bottom: 30px;
+    }
+    .abaut{
+        margin-bottom: 200px !important;
+    }
+    .abautusheader{
+        margin: 0 !important;
+    }
+    .abautusheader h1{
+        margin-left: 5% !important;
+    }
+    .abautus{
+        padding: 0 5%;
+    }
+    .abautus p:nth-child(2){
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+    .abautMe{
+        flex-direction: column-reverse !important;
+    }
+    .abautMe img{
+        position: relative !important ;
+        top: 0 !important;
+        margin-top: 20px;
+        align-self: center;
+        width: 80% !important;
+
+    }
+    .abautMe p{
+        margin-left: 0 !important;
+        padding: 0 5% !important;
+        align-self: center;
+    }
+    .abaut > p{
+        max-width: 100% !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 5% 5%;
+    }
+    .slider_item{
+        width: 100% !important;
+    }
+    .slidercontent{
+        width: 100% !important;
+        align-items: center;
+        margin: 0 !important;
+    }
+    .slidercontent img{
+        align-self: center;
+    }
+    .instaheader{
+        margin-left: 5% !important;
+    }
+    #insta > a{
+        margin-top: 30px !important;
+    }
+    .inst > div:first-child{
+        flex-direction: column !important;
+    }
+    .inst > div:first-child figure{
+        width: 80% !important;
+        align-self: center;
+    }
+    .contacts{
+        flex-direction: column !important;
+    }
+    #tel, #mail, #adres{
+        margin-top: 20px;
+    }
+    #footerhr{
+        width: auto !important;
+    }
+    #label{
+        text-align: center;
+    }
+    footer label{
+        margin-top: 10px !important;
+    }
+    #btnblock{
+        margin-top: 20px !important;
+    }
+}

@@ -1,0 +1,378 @@
+@media screen and (min-width: 300px) and (max-width: 1025px){
+    #app{
+        width: 100%;
+    }
+    .toTop{
+        right: 10px !important;
+        bottom: 65px;
+    }
+    footer .group > label{
+        font-size: 30px;
+        margin-top: -15px;
+    }
+    footer input:focus ~ label{
+        font-size: 24px !important;
+    }
+    input{
+        font-size: 28px !important;
+    }
+    footer .group{
+        margin-top: 10px !important;
+    }
+    h1{
+        margin: 0 !important;
+        max-width: auto !important;
+    }
+    header{
+        background-position: 55% 0;
+    }
+    #head{
+        display: block;
+        height: 150px;
+    }
+    #logo{
+        height: auto;
+        display: block;
+        margin: auto 0 0 10% !important;
+    }
+    #phone{
+        height: auto;
+        display:inline;
+        margin:auto 10% 0 0 !important;
+        margin-top: auto;
+    }
+    #sell{
+        display: flex;
+        flex-direction: column;
+        margin: auto 0 100px 0 !important;
+        text-align: center;
+    }
+    #sell button{
+        width: 70% !important;
+        align-self: center;
+    }
+    .doOrder{
+        width: 90% !important;
+        left: 5% !important;
+        height: 70%;
+        padding: 50px !important;
+    }
+    .group{
+        margin: 40px 0 !important;
+    }
+    .doOrder>div>form>#button{
+        margin-top: auto;
+    }
+    #panoramtext{
+        flex-direction: column !important;
+        margin: 0 !important;
+    }
+    #panoramtexts{
+        margin: 0!important;
+    }
+    #panoram img{
+        margin: 0 !important;
+        height: 530px;
+    }
+    .downloadplan{
+        flex-direction: column !important;
+    }
+    .download{
+        margin-bottom: 30px;
+        margin-left: 100px;
+    }
+    .download button{
+        margin-top: 30px !important;
+    }
+    #abaut{
+        margin: 0 0 0 100px !important;
+    }
+    .planitems{
+        margin:0 !important;
+        height: 500px;
+    }
+    .planitem{
+        width: 47%;
+        height: 80%;
+    }
+    .planitem img{
+        height: 400px;
+    }
+    .interiorblock{
+        flex-direction: column !important;
+    }
+    .interiorblock div{
+        margin-left: 100px;
+    }
+    .whyWork{
+        flex-direction: column !important;
+    }
+    #why{
+        flex-direction: column !important;
+    }
+    .why{
+        margin: 0 !important;
+    }
+    #why h1{
+        margin: 0 0 30px 100px !important;
+    }
+    .img{
+        position: relative !important;
+        top: 0 !important;
+        padding-bottom: 40px;
+    }
+    .eco{
+        flex-direction: column !important;
+    }
+    .ecoblock>h1,.ecoblock>p{
+        margin-left: 100px !important;
+    }
+    .ecoblock img{
+        margin-top: 30px !important;
+    }
+    .eco ul{
+        display: flex;
+        flex-direction: row;
+        margin:0 !important;
+        padding: 0 10px 0 20px !important;
+    }
+    .eco ul li{
+        margin-right: 10px;
+    }
+    .outSide{
+        flex-direction: column !important;
+    }
+    #material{
+        margin-left: 100px;
+    }
+    .popups{
+        min-width: 100vw !important;
+        width: 100vw !important;
+        min-height: 100vh !important;
+        background-position: 27% 0 !important;
+    }
+    .popup{
+        position: relative !important;
+        left: 0 !important;
+        top: 0 !important;
+        bottom: 0;
+        right: 0;
+        display: none !important;
+    }
+    #whatgetheader{
+        flex-direction: column !important;
+    }
+    #whatgetheader h1{
+        margin-left: 100px !important;
+    }
+    #itemblock{
+        height: 930px !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        justify-content: space-around !important;
+    }
+    .getitemblock{
+        width: 40% !important;
+    }
+    .steps{
+        flex-direction: column;
+        margin-top: 0 !important;
+    }
+    .stepsheader{
+        flex-direction: column;
+    }
+    .stepsheader h1{
+        margin-left: 100px !important;
+    }
+    .stepslist div{
+        position: relative;
+        margin-right: 5px;
+    }
+    .stepslist div img{
+        bottom: 0;
+        top: 177px;
+        margin: 0 !important;
+        position: absolute !important;
+    }
+    .playercontainer{
+        margin: 50px 0 !important;
+    }
+    .playercontainer h3{
+        margin-left: 100px;
+    }
+    .priceheder{
+        flex-direction: column;
+    }
+    .priceheder h1{
+        margin-left: 100px !important;
+    }
+    .pricelist{
+        padding: 0 0 !important;
+    }
+    .priceblock{
+        padding: 41px 20px !important;
+    }
+    .pricelist>div:nth-child(2){
+        width: 100vw;
+        padding: 41px 20px !important;
+        margin: 0 !important;
+    }
+    .time{
+        text-align: center;
+    }
+    .complectation{
+        width: 50% !important;
+    }
+    .galeryheader{
+        margin: 0 0 0 100px !important;
+    }
+    .galeryitem:first-child > .galaryimg:first-child{
+        margin-top: 50px !important;
+    }
+    .contactheader{
+        flex-direction: column;
+    }
+    .contactheader h1{
+        margin-left: 100px !important;
+        margin-top: 0px !important;
+    }
+    .contactUs>form{
+        margin: 50px 0 0 0 !important;
+    }
+    .abaut{
+        height: auto !important;
+        margin-bottom: 400px !important;
+    }
+    .contactUs form{
+        padding: 0 5% !important;
+    }
+    .contactUs form .group{
+        margin-bottom: 0 !important;
+        
+    }
+    .contactUs form .group label{
+        font-size: 20px !important;
+    }
+    .contactUs form input:focus ~ label, .contactUs form input:valid ~ label{
+        font-size: 16px !important;
+    }
+    .abautusheader{
+        flex-direction: column !important;
+        margin: 200px 0 0 0 !important;
+    }
+    .abautusheader h1{
+        margin: 0 0 0 100px !important;
+    }
+    .abautus{
+        margin: 0 !important;
+        flex-wrap: wrap;
+    }
+    .abautus p{
+        width: auto !important;
+    }
+    .abautus p:first-child{
+        display: none;
+    }
+    .player iframe{
+        height: 400px !important;
+    }
+    .abautus p:nth-child(2){
+        width: 40% !important;
+        margin-left: 3% !important;
+    }
+    .abautus img{
+        margin: 0 0 0 auto !important;
+        top: 0px !important;
+        right: 0 !important;
+    }
+    .abautMe{
+        margin: 70px 0 0 0 !important;
+        padding: 0 !important;
+        display: flex;
+        height: auto !important;
+    }
+    .abautMe img{
+        top: -100px !important;
+        left: 0 !important;
+        width: 50%;
+    }
+    .abautMe p{
+        padding: 0 2%;
+    }
+    .abaut > p{
+        display: none;
+    }
+    .hooper-slide{
+        padding: 0 !important;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+    }
+    .sliderimg{
+        margin-bottom: 30px;
+    }
+    .hooper-prev, .hooper-next{
+        margin: 0 !important;
+    }
+    .slidercontent{
+        margin: 0 100px;
+    }
+    .slidercontent h3{
+        text-align: center;
+    }
+    .instaheader{
+        flex-direction: column;
+        margin: 0 0 0 13% !important;
+    }
+    #insta{
+        flex-direction: column !important;
+    }
+    #insta h1{
+        margin: 0 0 0 0 !important;
+    }
+    #insta a{
+        margin: 20px 0 20px 0 !important;
+    }
+    .inst div:first-child{
+        justify-content: space-between;
+    }
+    .inst div:first-child figure{
+        width: 45%;
+    }
+    .inst div:first-child figure a img{
+        width: 100%;
+    }
+    footer{
+        padding: 0 !important;
+    }
+    .contacts{
+        margin-top: 50px;
+        padding: 0 10px;
+    }
+    .contacts #adres{
+        margin-right: 0 !important;
+    }
+    .contactUs{
+        flex-direction: column;
+    }
+    .contactUs > .group{
+        margin-bottom: 50px;
+        margin-top: 50px !important;
+    }
+    #footerhr{
+        width: 98vw !important;
+    }
+    #label{
+        margin: 0 !important;
+        align-self: center;
+    }
+    .contactUs > .group{
+        margin-top: 30px;
+        align-self: center;
+    }
+    #btnblock{
+        margin: 0 !important;
+        align-self: center;
+        margin-bottom: 30px !important;
+    }
+}
